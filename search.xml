@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>测试文件</title>
-    <url>/2021/04/07/hello-world/</url>
-    <content><![CDATA[<p>可不可以推送？</p>
+    <title>配置hexo踩坑</title>
+    <url>/2021/04/11/hello-world/</url>
+    <content><![CDATA[<p>选了很久最后决定用HEXO开始搭建自己的博客，不过虽然看上去不是很难，可还是踩了很多坑。</p>
+<p>后面有时间详细记录一下。</p>
 ]]></content>
       <categories>
-        <category>测试</category>
+        <category>博客</category>
       </categories>
       <tags>
-        <tag>测试</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
 </search>
